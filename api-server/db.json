@@ -1,0 +1,62 @@
+{
+  "streams": [
+    {
+      "title": "s1mple",
+      "description": "Playing FPL",
+      "id": 1
+    },
+    {
+      "title": "Brollan",
+      "description": "CS:GO All Night",
+      "id": 2
+    },
+    {
+      "title": "gli7ch",
+      "description": "Welcome to my stream",
+      "userId": "116377042648677038445",
+      "id": 3
+    },
+    {
+      "title": "kennyS",
+      "description": "AWP King",
+      "userId": "116377042648677038445",
+      "id": 4
+    },
+    {
+      "title": "Krimz",
+      "description": "Assaulter",
+      "userId": "116377042648677038445",
+      "id": 5
+    },
+    {
+      "title": "Twistzz",
+      "description": "OOOOOOOOOOOOOh",
+      "userId": "116377042648677038445",
+      "id": 6
+    },
+    {
+      "title": "NAF",
+      "description": "underdog",
+      "userId": "116377042648677038445",
+      "id": 7
+    },
+    {
+      "title": "electronic ",
+      "description": "Stoner",
+      "userId": "116377042648677038445",
+      "id": 8
+    },
+    {
+      "title": "Shoxie",
+      "description": "Traitor",
+      "userId": "116377042648677038445",
+      "id": 9
+    },
+    {
+      "title": "Get_Right",
+      "description": "CS_GO legends",
+      "userId": "116377042648677038445",
+      "id": 10
+    }
+  ]
+}
